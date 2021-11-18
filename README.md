@@ -1,1 +1,2 @@
-# Juego-C22 invasion de pirata
+# PRO-C22
+estructura alámbrica para c22 
